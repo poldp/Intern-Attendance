@@ -1,6 +1,3 @@
-# Intern-Attendance
+                                                # Intern-Attendance
 
-Status:
-1.Working on it.
-2.completed.
-3.looking for help.
+           To Create a script to mark attendence of interns on the basis of status or queries recieved on mail.
